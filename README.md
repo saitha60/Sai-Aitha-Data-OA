@@ -1,11 +1,7 @@
 # data-oa
 Online Assessments for the Data Team
 
-# Task List
-
-There are two assigned tasks, both of which have to be completed, to ensure 
-
-## Data Science: Exploratory Data Analysis on a Consumer Finance Dataset
+# Data Science: Exploratory Data Analysis on a Consumer Finance Dataset
 
 Exploratory data analysis plays a huge part in quantitative finance. Often, in a variety of scenarios, consumer interests, expectations and beliefs play a huge role in deciding major moves for organisations.
 
@@ -28,7 +24,7 @@ Your code should be highly modular, customizable, and absent of technical debt. 
 
 This criteria is the same in our codebase and will be a good indicator if you can generate data science based insights. Imagine that you're showing the insights from this dataset to an executive, and retain only visual and simple to understand correlations that you find. Good luck!
 
-### Instructions for working with the dataset:
+## Instructions for working with the dataset:
 
 The dataset is on Google Drive. Our advice for you is to download the dataset, work on it, and add it to the gitignore in your private forks, so that you don't commit it. **Always print out outputs of operations within your notebook, but do not include the dataset itself as part of your submission.**
 
@@ -36,12 +32,12 @@ Link to dataset: https://drive.google.com/file/d/1Vnny6HVGBgF_mdDtIo2ddOTtOiGF5j
 
 Log in with your GApps@Illinois account to access this dataset.
 
-### **Deliverables**
+## **Deliverables**
 1. A Jupyter Notebook with all the code and your thought process. (Remember the thought process is what we're looking for)
 2. A generated, dynamic PDF File with the insights that you have gathered.
 3. A list of future hypotheses that you may not have yet implemented / couldn't figure out how to, but feel that could be interesting. Ideally, this would be structured in LaTex.
 
-### **Grading**
+## **Grading**
 We will be looking at your project and grading it under these five criteria:
 1. Code
    - If it works
@@ -62,7 +58,4 @@ We will be looking at your project and grading it under these five criteria:
 5. Git
    - [Good commit messages](https://cbea.ms/git-commit/#seven-rules)
    - Commits are properly sized
-
-## Data Architecture:
-
 
